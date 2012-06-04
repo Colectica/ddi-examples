@@ -1,0 +1,12 @@
+* DDI Examples
+The Data Documentation Initiative (DDI) is an effort to create an international standard for describing social science and statistical data. The DDI 3 metadata specification covers the entire data lifecycle, and Colectica allows a user to automatically capture this valuable information automatically.
+
+You can use the free [[http://www.colectica.com/software/reader][Colectica Reader]] to view and validate these DDI files.
+** Supplemental Security Income (SSI) microdata documented in DDI 3 metadata
+The Supplemental Security Income (SSI) Public-Use Microdata File contains an extract of data fields from the Social Security Administration's (SSA) Supplemental Security Record file. This dataset is used to demonstrate how to document variables and datasets in DDI 3.
+
+[[http://colectica.com/ssi-ddi-metadata][More Information]]
+** Census 2010 in DDI 3 metadata
+The 2010 Census is one of the most recognizable research questionnaires in the United States. The US Census is advertised on talk shows, in the media, and is mailed to every current home address. This familiarity makes the 2010 Census a great questionnaire to demonstrate some features of the DDI 3 metadata standard and its Data Collection component.
+
+[[http://colectica.com/census2010-ddi-metadata][More Information]]
